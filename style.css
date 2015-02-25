@@ -1,11 +1,11 @@
 h1 {
   font-family: "Oswald";
-  color: darkblue;
+  color: white;
 }
 
 h2 {
   font-family: "Oswald";
-  color: darkblue;
+  color: white;
 }
 
 body {
@@ -14,8 +14,8 @@ body {
   margin-left: 50pt;
   margin-left: 50pt;
   font-family: "Open Sans";
-  color: darkblue;
-  background-color: ivory;
+  color: white;
+  background-color: black;
 }
 
 img {
