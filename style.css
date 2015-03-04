@@ -1,49 +1,19 @@
-h1 {
-  font-family: "Oswald";
-  color: white;
-}
-
-h2 {
-  font-family: "Oswald";
-  color: white;
-}
-
 body {
-  margin-top: 10pt;
-  margin-bottom: 10pt;
-  margin-left: 50pt;
-  margin-left: 50pt;
-  font-family: "Open Sans";
-  color: white;
-  background-color: black;
+  padding-top: 50px;  /* Move body of page below navbar. */
 }
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+
 
 img {
   float: left;
   margin-right: 10px;
 }
 
-.bar {
-  width: 150px;
-  position: relative;
-  display: block;
-  float: left;
+.col-md-4 {
+  column-gap: 10px;
 }
-
-#left {
-  width: 30%;
-  float: left;
-  margin-right: 20px;
-}
-
-#center {
-  width: 30%;
-  float: left;
-margin-right: 20px;
-}
-
-#right {
-  width: 30%;
-  float: left;
-}
-
